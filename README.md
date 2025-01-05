@@ -1,5 +1,11 @@
 _An Arduino-based IoT project utilizing the MQ2 gas detection sensor to monitor and alert gas levels in real-time. The project integrates with the Blynk IoT platform to display sensor data, send notifications, and enable remote control via a mobile app. Ideal for detecting combustible gases such as LPG, methane, and smoke, this project enhances safety and convenience through IoT automation._
 
+_This project includes two notification methods:_
+
+1)Blynk IoT for remote monitoring and control via a mobile app.
+
+2)SMS and Call Alerts using the SIM900 GSM module for users without internet access.
+
 **Features:**
 
 1)Real-time gas level monitoring using the MQ2 sensor.
