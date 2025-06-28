@@ -1,11 +1,5 @@
 # Flammable Gas Detection with Blynk IoT
 
-<p align="center">
-  <img src="https://github.com/AwkJay/Flammable-Gas-Detection-with-Blynk-IoT/blob/main/Images/Circuit%20Diagram.jpeg?raw=true" alt="Circuit Diagram" width="400"/>
-  <br>
-  <em>Circuit Diagram of the Flammable Gas Detection System</em>
-</p>
-
 ## Table of Contents
 
 - [Overview](#overview)
